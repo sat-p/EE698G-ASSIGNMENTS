@@ -1,0 +1,19 @@
+###############################################################################
+
+The main directory contains the PDF document 'ass4.pdf' which contains the
+images of plots, analysis etc.
+
+There are 4 subdirectories :
+    -> EKF_UKF         [Contains the files required to run the first MATLAB
+                        problem]
+    -> Particle Filter [Contains the files required to run the second MATLAB
+                        problem]
+    -> images          [Contains all the images]
+    -> tex             [Contains the tex file : ass4.tex]
+    
+The scripts to perform the required operations for questions 1-2 are present in
+the directories 'EKF_UKF' & 'Particle Filter' respectively. The scripts 'main.m'
+must be run for both the MATLAB problems.
+
+###############################################################################
+###############################################################################

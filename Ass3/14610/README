@@ -1,0 +1,20 @@
+###############################################################################
+
+The main directory contains the PDF document 'ass3.pdf' which contains the
+solutions to the non-matlab questions, images of plots, etc.
+
+There are 4 subdirectories :
+    -> Q5     [Contains the provided 'data_epipolar.mat' file, cam1_2_cam2_F.m,
+               fundamental_matrix.m, question5.m, cam1_2_cam2.m,
+               inverse_camera_transform.m, rotation_matrix_deg.m,
+               camera_transform.m & OLS.m]]
+    -> Q6     [Contains the provided 'data_kalman.mat' & question6.m]
+    -> images [Contains the images : 'q5.jpg', 'q6_1.jpg' & 'q6_2.jpg']
+    -> tex    [Contains the file 'ass3.tex' used to generate 'ass3.pdf']
+    
+The scripts to perform the required operations for questions 5-6 are present in
+the directories 'Q5' & 'Q6' respectively. The scipts to be launched
+for questions 5-6 are : 'question5.m' and 'question6.m' respectively.
+
+###############################################################################
+###############################################################################

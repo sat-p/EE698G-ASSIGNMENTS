@@ -1,0 +1,19 @@
+###################################################################################
+
+The main directory contains the PDF document 'ass1.pdf' which contains the solutions
+to the questions 1-7, and comments on figures obtained by matlab scripts which
+solve the questions 8-9.
+
+There are 4 subdirectories :
+    ->  code    [Contains all .m] files
+    ->  data    [Contains the files  : data_points_line.mat, data_points_plane.mat]
+    ->  images  [Contains the images : ols.jpg, pca.jpg, q9.jpg]
+    ->  tex     [Contains the file 'ass1.tex' used to generate 'ass1.pdf']
+    
+To generate plots, the directory 'code' should be set as the current directory
+    * To generate the plot for question 8(a), run the file '/code/question8a.m'.
+    * To generate the plot for question 8(b), run the file '/code/question8b.m'.
+    * To generate the plot for question 9, run the file '/code/question9.m'.
+
+###################################################################################
+###################################################################################

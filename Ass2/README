@@ -1,0 +1,25 @@
+###############################################################################
+
+The main directory contains the PDF document 'ass2.pdf' which contains the
+solutions to the non-matlab questions, images of plots, drawn inferences, etc.
+
+There are 6 subdirectories :
+    ->  Q1      [Contains the provided Problem.mat file & 'camera_transform.m'
+                 'Problem.mat', 'rotation_matrix_deg.m', 'pos2transform_deg.m',
+                 'question1.m']
+    ->  Q2      [Contains build_covariance_mat.m, gen_normal.m, question2.m]
+    ->  Q3      [Contains the provided .mat file & 'question3.m']
+    ->  Q4      [Contains the provided .mat file and .m files.
+                 Contains modifed 'ICP.m']
+    ->  images  [Contains the images : 'q1output.jpg', 'q2output.jpg',
+                                       'q3orig.jpg', 'q3transform.jpg',
+                                       'q4after.jpg', 'q4before.jpg']
+    ->  tex     [Contains the file 'ass2.tex' used to generate 'ass2.pdf']
+    
+The scripts to perform the required operations for questions 1-4 are present in
+the directories 'Q1', 'Q2', 'Q3' & 'Q4' respectively. The scipts to be launched
+for questions 1-3 are : 'question1.m', 'question2.m' and 'question3.m'
+respectively. To evaluate question 4, the provided file, 'main.m' must be run.
+
+###############################################################################
+###############################################################################
